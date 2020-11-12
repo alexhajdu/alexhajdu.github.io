@@ -25,7 +25,7 @@ Geodesic Games - We develop integration tools (plugins) for integrating new tech
 	- C++
 	- PowerShell
 	- Google tests
-	- Unreal Engine test suite
+	- Unreal Engine test suite - Gauntlet Automation Framework
 	- git, perforce
 
 ### Software engineer ( C++ ) @ Chaos Group
@@ -90,6 +90,7 @@ Unleash the power of the project management tools like Trello, Assembla, Jira in
 	- Implementation of 3rd party API ( Trello, Assembla, Jira )
 - Used technologies:
 	- Unreal Engine
+	- Gauntlet Automation Framework
 	- C++
 	- Adobe Photoshop
 
