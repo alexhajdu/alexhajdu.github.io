@@ -83,6 +83,8 @@ The development of the plugin was canceled during the COVID-19 pandemic.
 > **Project:** Fix This! - Ultimate project management plugin for UE4
 > **Relevant links:**: [FixThis! UE4 plugin](https://www.unrealengine.com/marketplace/fix-this-todo-system-for-the-level-editor)
 
+![projects](https://alexhajdu.github.io/github_header.png)
+
 Unleash the power of the project management tools like Trello, Assembla, Jira in Unreal Engine! Create tickets from the plugin editor window, from comments in your blueprints, or visual todos created right in the level. Make new comments, complete tasks, assign members, labels, and due dates right in the Unreal editor.
 
 - Responsibilities on the project:
@@ -282,4 +284,4 @@ University of Transport and Communications, Faculty of Applied Mathematics and I
 **LinkedIn**: [alex-hajdu](https://www.linkedin.com/in/alex-hajdu-99139326/)
 
 ---
-![enter image description here](https://alexhajdu.github.io/projects.png)
+![projects](https://alexhajdu.github.io/projects.png)
