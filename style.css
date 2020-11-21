@@ -2018,7 +2018,7 @@ h1, h2, h4, h5, h6 {
 h3{
     margin: 2em 0;
     line-height: 1.5;
-    color: rgb(68, 0, 100);
+    color: #ad0051;
 }
 
 h1:after, h2:after {
@@ -2038,7 +2038,7 @@ dt {
 }
 
 a {
-    color: #0c93e4;
+    color: #ad0051;
     text-decoration: underline;
     text-decoration-skip: ink
 }
@@ -2055,6 +2055,7 @@ code, pre, samp {
 code *, pre *, samp * {
     font-size: inherit
 }
+
 /* 
 blockquote {
     color: rgba(0, 0, 0, .5);
@@ -2063,14 +2064,12 @@ blockquote {
     border-top: 1px dotted rgb(78, 0, 74);
 } */
 
-
 blockquote {
     border-left-width: 10px;
+    border-left:3px solid #ad0051;
     background-color: #f8f8f8;
     border-radius: 15px;
-    /* border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px; */
-    padding: 15px 20px
+    padding: .1em 20px
 }
 
 .app--dark .layout__panel--editor blockquote, .app--dark .layout__panel--preview blockquote {
