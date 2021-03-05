@@ -9,6 +9,26 @@ With services like codebase optimizations, rewriting Blueprints to C++, programm
 
 ## Experience
 
+### Software engineer ( C++ ) @ Dark Slope Studios
+
+>  **Period:** Dec 2020 - *, Contract (b2b)
+>  **Projects:** Various XR applications
+>  **Relevant links:** [Dark Slope Studios](https://darkslopestudios.com/)
+
+VIRTUAL PRODUCTION FOR VIRTUAL WORLDS
+Dark Slope is a Virtual Production focused studio. From video games to Virtual Reality; from linear television production to augmented reality experiences, our team is focused on innovative solutions to complicated problems and exciting new forms of entertainment.
+
+- Responsibilities on the project:
+	- C++ programming
+	- Research
+	- Implementation of recording the full-body pose in the VR at the runtime
+- Used technologies
+	- C++
+	- PowerShell
+	- Unreal Engine test suite - Gauntlet Automation Framework
+	- git, perforce
+
+
 ### Software engineer ( C++ ) @ Geodesic Games / Epic Games
 
 >  **Period:** Sep 2020 - Nov 2020, Contract (b2b)
@@ -31,7 +51,7 @@ Geodesic Games - We develop integration tools (plugins) for integrating new tech
 ### Software engineer ( C++ ) @ Chaos Group
 
 >  **Period:** Jun 2019 - Jun 2020, Contract (b2b)
->  **Project:** Corona Renderer,
+>  **Project:** Corona Renderer
 >  **Relevant links:** [Corona Renderer](https://corona-renderer.com/), [Chaos group](https://www.chaosgroup.com/), [ARCHICAD](https://www.graphisoft.com/archicad/)
 
 Corona Renderer is a modern high-performance (un)biased photorealistic renderer, available for Autodesk 3ds Max, MAXON Cinema 4D, and as a standalone application.
@@ -58,8 +78,8 @@ The development of the plugin was canceled during the COVID-19 pandemic.
 
 ###  CTO @ WeMakeGames
 
-> **Period:**: Aug.2017 - Mar.2019, Contract (b2b), 
-> **Product:**  Castle Heroes, Mobile game ( iOS, Android ),
+> **Period:**: Aug.2017 - Mar.2019, Contract (b2b),
+> **Product:**  Castle Heroes, Mobile game ( iOS, Android )
 > **Relevant links:** [WeMakeGames](http://wemakegames.sk/)
 
 - Responsibilities on the project:
