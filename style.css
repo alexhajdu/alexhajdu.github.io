@@ -227,7 +227,7 @@ h2 {
     color: black;
     position: relative;
 }
-
+/* 
 h2 span {
     background-color: white;
     padding-right: 10px;
@@ -240,9 +240,9 @@ h2:after {
     left: 0;
     right: 0;
     height: 0.5em;
-    border-bottom: 1px solid lightsteelblue;
+    border-bottom: 1px solid orangered;
     z-index: -1;
-}
+} */
 
 h3{
     margin: 2em 0;
