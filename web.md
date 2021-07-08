@@ -9,6 +9,28 @@ With services like codebase optimizations, rewriting Blueprints to C++, programm
 
 ## Experience
 
+### Software engineer ( C++ ) @ Happy Finish / Microsoft
+
+>  **Period:** Apr 2021 - July 2021, Contract (b2b)
+>  **Projects:** Microsoft Mesh for Unreal Engine 4
+>  **Relevant links:** [Microsoft Mesh](https://www.microsoft.com/en-us/mesh/), [Happy Finish MS Partnership](https://www.happyfinish.com/blog/microsoft-mixed-reality-partner/)
+
+Microsoft Mesh enables presence and shared experiences from anywhere – on any device – through mixed reality applications.
+
+- Responsibilities on the project:
+	- C++ programming
+	- Creating Service Manager UX (UE4 editor tool)
+	- Creating Platform UX using UX Tools (Runtime)
+	- Creating a communication layer between Service Manager UX and Platform UX and Microsoft Mesh
+	- Closely communicate with Microsoft team members
+
+- Used technologies
+	- C++
+	- Hololens 2
+	- Unreal Engine 4
+	- PowerShell
+	- git
+
 ### Software engineer ( C++ ) @ Dark Slope Studios
 
 >  **Period:** Dec 2020 - *, Contract (b2b)
