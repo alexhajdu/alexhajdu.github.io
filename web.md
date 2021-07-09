@@ -9,8 +9,7 @@ With services like codebase optimizations, rewriting Blueprints to C++, programm
 
 ## Experience
 
-### Software engineer ( C++ ) @ Happy Finish / Microsoft
-
+> ### Software engineer ( C++ ) @ Happy Finish / Microsoft
 >  **Period:** Apr 2021 - July 2021, Contract (b2b)
 >  **Projects:** Microsoft Mesh for Unreal Engine 4
 >  **Relevant links:** [Microsoft Mesh](https://www.microsoft.com/en-us/mesh/), [Happy Finish MS Partnership](https://www.happyfinish.com/blog/microsoft-mixed-reality-partner/)
@@ -31,8 +30,7 @@ Microsoft Mesh enables presence and shared experiences from anywhere – on any 
 	- PowerShell
 	- git
 
-### Software engineer ( C++ ) @ Dark Slope Studios
-
+>  ### Software engineer ( C++ ) @ Dark Slope Studios
 >  **Period:** Dec 2020 - *, Contract (b2b)
 >  **Projects:** Various XR applications
 >  **Relevant links:** [Dark Slope Studios](https://darkslopestudios.com/)
@@ -51,8 +49,7 @@ Dark Slope is a Virtual Production focused studio. From video games to Virtual R
 	- git, perforce
 
 
-### Software engineer ( C++ ) @ Geodesic Games / Epic Games
-
+> ### Software engineer ( C++ ) @ Geodesic Games / Epic Games
 >  **Period:** Sep 2020 - Nov 2020, Contract (b2b)
 >  **Projects:** nDisplay (Epic Games), Previz(Geodesic Games)
 >  **Relevant links:** [nDisplay](https://docs.unrealengine.com/en-US/Engine/Rendering/nDisplay/index.html), [Geodesic Games](http://www.geodesic.games/), [Epic Games](https://www.epicgames.com)
@@ -70,8 +67,7 @@ Geodesic Games - We develop integration tools (plugins) for integrating new tech
 	- Unreal Engine test suite - Gauntlet Automation Framework
 	- git, perforce
 
-### Software engineer ( C++ ) @ Chaos Group
-
+> ### Software engineer ( C++ ) @ Chaos Group
 >  **Period:** Jun 2019 - Jun 2020, Contract (b2b)
 >  **Project:** Corona Renderer
 >  **Relevant links:** [Corona Renderer](https://corona-renderer.com/), [Chaos group](https://www.chaosgroup.com/), [ARCHICAD](https://www.graphisoft.com/archicad/)
@@ -98,8 +94,7 @@ The development of the plugin was canceled during the COVID-19 pandemic.
 	- Google tests
 	- git
 
-###  CTO @ WeMakeGames
-
+> ###  CTO @ WeMakeGames
 > **Period:**: Aug.2017 - Mar.2019, Contract (b2b),
 > **Product:**  Castle Heroes, Mobile game ( iOS, Android )
 > **Relevant links:** [WeMakeGames](http://wemakegames.sk/)
@@ -119,8 +114,7 @@ The development of the plugin was canceled during the COVID-19 pandemic.
  
  <iframe width="800" height="450" src="https://www.youtube.com/embed/oyPihOthiDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###  Software engineer ( C++, Unreal Engine ) @ Mr.Fox and friends
-
+> ###  Software engineer ( C++, Unreal Engine ) @ Mr.Fox and friends
 > **Period:** Sep 2018 - Present
 > **Project:** Fix This! - Ultimate project management plugin for UE4
 > **Relevant links:**: [FixThis! UE4 plugin](https://www.unrealengine.com/marketplace/fix-this-todo-system-for-the-level-editor)
@@ -142,13 +136,12 @@ Unleash the power of the project management tools like Trello, Assembla, Jira in
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/YHrOzj2uNow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###   Software engineer ( C# Unity ) @ EA Chillingo / AboutFun
-
-Multiplayer Mobile Game ( iOS )
-
+> ###   Software engineer ( C# Unity ) @ EA Chillingo / AboutFun
 > **Period:** May 2015 - Dec 2015, Contract (b2b)
 > **Project:** WarFriends, Mobile game (iOS, Android)
 > **Relevant links:** [WarFriends](https://itunes.apple.com/nz/app/warfriends-pvp-army-shooter/id979873043?mt=8)
+
+Multiplayer Mobile Game ( iOS )
 
 -   Responsibilities on the project:
 	- GUI programming
@@ -160,8 +153,7 @@ Multiplayer Mobile Game ( iOS )
 	
 <iframe width="800" height="450" src="https://www.youtube.com/embed/kCUNq-LdTHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###  Software engineer ( C++, Unreal Engine )  @ Cellense/Exponea
-
+> ###  Software engineer ( C++, Unreal Engine )  @ Cellense/Exponea
 > **Period:** Sep 2018 - Dec 2018, Contrct (b2b)
 > **Project:** Exponea analytics SDK for UE4
 > **Relevant links:** [Cellense SDK](https://github.com/Cellense/Exponea-Unreal-SDK),  [Cellense / Exponea](http://www.exponea.com)
@@ -175,8 +167,7 @@ Unreal Engine plugin integrating Cellense / Exponea analytics SDK into C++ or Bl
 	- C++
 	- git
 
-###  Founder, CEO, Software engineer ( C++, Unreal Engine ) @ Mr.Fox and friends
-
+> ###  Founder, CEO, Software engineer ( C++, Unreal Engine ) @ Mr.Fox and friends
 > **Period:** Jan 2017 - Feb 2018
 > **Project:** AmblyoVR
 > **Relevant links:** N/A
@@ -194,8 +185,7 @@ Unreal Engine plugin integrating Cellense / Exponea analytics SDK into C++ or Bl
 	- Adobe Photoshop
 	- git, svn
 
-### Senior Unity / Unreal / Games / AR / VR developer @ Inloopx by AVAST
-
+> ### Senior Unity / Unreal / Games / AR / VR developer @ Inloopx by AVAST
 > **Period:** Dec 2015 - Jul 2017, Contract (b2b)
 > **Projects:** Skoda Auto  Mercedes Daimler, Sygic, Nestle, Slovak Telekom,  Samsung, OPEC  and more...
 > **Relevant links:** www.inloopx.com
@@ -217,8 +207,7 @@ Unreal Engine plugin integrating Cellense / Exponea analytics SDK into C++ or Bl
  
  <iframe width="800" height="450" src="https://www.youtube.com/embed/Zl11gPollVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
-### Software engineer ( C++, Unreal Engine )  @ Electrolux
-
+> ### Software engineer ( C++, Unreal Engine )  @ Electrolux
 > **Period:** Dec 2017 - Feb 2018, Contract (b2b)
 >**Project:** Interactive VR presentation
 >**Relevant links:** N/A
@@ -234,8 +223,7 @@ Bring life and interactivity to a VR project - Kitchen
 	- svn
 	- VR
 
-### Software engineer ( C++, Unreal Engine )  @ AEG
-
+> ### Software engineer ( C++, Unreal Engine )  @ AEG
 > **Period:** Dec 2017 - Feb 2018, Contract (b2b)
 >**Project:** Interactive VR presentation
 >**Relevant links:** N/A
@@ -252,8 +240,7 @@ Bring life and interactivity to a VR project - House.
 	- VR, Windows Mixed Reality
 
   
-###  Software engineer ( C++, Unreal Engine )  @ Mr.Fox and friends
-
+> ###  Software engineer ( C++, Unreal Engine )  @ Mr.Fox and friends
 > **Period:** Jan 2018
 > **Project**: Whats My Public IP
 > **Relevant links:** https://github.com/alexhajdu/WhatsMyPublicIP-ue4-plugin
