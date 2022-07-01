@@ -1,4 +1,4 @@
-﻿# Alex Hajdu - Independent Software Engineer
+﻿# Alex Hajdu - Independent Software Engineer and Consultant
 
 ![Skills Picture](https://alexhajdu.github.io/skills.png)
 
@@ -30,6 +30,43 @@ Microsoft Mesh enables presence and shared experiences from anywhere – on any 
 	- PowerShell
 	- git
 
+>  ### Software engineer ( C++ ) @ Krone Consulting
+>  **Period:** Dec 2020 - *, Contract (b2b)
+>  **Projects:** Testing United VR application, eeVRee
+>  **Relevant links:** [Krone Consulting](https://kroneit.com/), [Testing United](https://www.testingunited.com/)
+
+Testing United is a testing conference aimed at all levels of testers, test leads, test managers, test consultants and IT employees that come in daily contact with testing teams. The conference unites experts from the extended central Europe region, and thus expands on this idea by periodically rotating the venue between Vienna, Prague and Bratislava since 2018.
+
+- Responsibilities on the project:
+	- C++ programming
+	- Multiplayer experience development
+	- UI integration
+	- Network communication
+	- Microsoft PlayFab server integration
+- Used technologies
+	- C++
+	- PowerShell
+	- Unreal Engine 4
+	- Oculus Quest 2
+	- git
+	- Microsoft PlayFab
+
+eeVRee is a code name for a project the company is actively developing...
+
+- Responsibilities on the project:
+	- C++ programming
+	- Microsoft PlayFab server integration
+	- Network communication
+	- UI integration
+	- Research (Microsoft PlayFab Party integration)
+- Used technologies
+	- C++
+	- PowerShell
+	- Unreal Engine 5
+	- Oculus Quest 2
+	- git
+	- Microsoft PlayFab
+
 >  ### Software engineer ( C++ ) @ Dark Slope Studios
 >  **Period:** Dec 2020 - *, Contract (b2b)
 >  **Projects:** Various XR applications
@@ -42,9 +79,11 @@ Dark Slope is a Virtual Production focused studio. From video games to Virtual R
 	- C++ programming
 	- Research
 	- Implementation of recording the full-body pose in the VR at the runtime
+	- Implementation of reusable and stylized UI elements
 - Used technologies
 	- C++
 	- PowerShell
+	- Unreal Engine 4
 	- Unreal Engine test suite - Gauntlet Automation Framework
 	- git, perforce
 
@@ -79,7 +118,7 @@ The development of the plugin was canceled during the COVID-19 pandemic.
 
 - Responsibilities on the project:
 	- C++ programming
-	- Implement functionality relevant for BIM software from the Corona  Renderer Core
+	- Implement functionality relevant for BIM software from the Corona Renderer Core
 	- Planning
 	- To deliver daily builds
 	- Do code reviews
