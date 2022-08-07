@@ -4,12 +4,13 @@
 
 ## Introduction
 
-Alex is a senior C++ programmer and consultant helping, mainly UE4 teams, with advanced programming tasks or even project planning. 
-With services like codebase optimizations, rewriting Blueprints to C++, programming of production boosting tools, and editor plugins, 3rd party product integrations, setting-up processes and workflows and more is a good fit for every project in every stage and every condition.
+Alex is a senior Unreal Engine C++ programmer and consultant providing services like codebase optimizations, Blueprints to C++ conversions, research, production boosters or editor tools programming, 3rd party product integrations, processes, and workflows consultation. Because of many experience, he is a good fit for every type of project in every stage and every condition.
 
 ## Experience
 
 > ### Software engineer ( C++ ) @ Happy Finish / Microsoft
+> 
+> Contractor
 > 
 >  **Period:** Apr 2021 - July 2021, Contract (b2b)
 >  **Projects:** Microsoft Mesh for Unreal Engine 4
@@ -33,7 +34,11 @@ Microsoft Mesh enables presence and shared experiences from anywhere – on any 
   - PowerShell
   - git
 
-> ### Software engineer ( C++ ) @ Krone Consulting
+> ### Senior Software engineer ( C++ ) @ Krone Consulting
+> 
+> Tags: Unreal Engine, C++, R&D department, Oculus Quest 2
+> 
+> VR
 > 
 >  **Period:** Dec 2020 - *, Contract (b2b)
 >  **Projects:** Testing United VR application, eeVRee
@@ -54,6 +59,9 @@ Testing United is a testing conference aimed at all levels of testers, test lead
   - Oculus Quest 2
   - git
   - Microsoft PlayFab
+- Target platforms
+  - Oculus Quest 2 
+  - Android
 
 eeVRee is a code name for a project the company is actively developing...
 
@@ -71,7 +79,7 @@ eeVRee is a code name for a project the company is actively developing...
   - git
   - Microsoft PlayFab
 
-> ### Software engineer ( C++ ) @ Dark Slope Studios
+> ### Senior engine developer ( C++ ) @ Dark Slope Studios
 > 
 >  **Period:** Dec 2020 - *, Contract (b2b)
 >  **Projects:** Various XR applications

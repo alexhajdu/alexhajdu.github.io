@@ -1,0 +1,214 @@
+body, html {
+
+    /* --color1: #021C1E;
+    --color2: #004445;
+    --color3: #2C7873;
+    --color4: #6FB98F; */
+
+    /* --color1: #655D8A;
+    --color2: #7897AB;
+    --color3: #D885A3;
+    --color4: #FDCEB9; */
+
+    /* --color1: #194350;
+    --color2: #FF8882;
+    --color3: #FFC2B4;
+    --color4: #9DBEB9; */
+
+    --color1: #513252;
+    --color2: #7A4069;
+    --color3: #CA4E79;
+    --color4: #FFC18E;
+
+    /* --color1: #371B58;
+    --color2: #4C3575;
+    --color3: #5B4B8A;
+    --color4: #7858A6; */
+
+    --mainPadding: 1em;
+    --halfPadding: 0.5em;
+    --borderRadius: 1em;
+
+    --box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+
+    /* tags only */
+    --t_padding: 5px;
+    --t_padding-left: 15px;
+    --t_padding-right: 15px;
+
+    margin: 1em;
+    padding: var(--halfPadding);
+    font-family: 'Trebuchet MS', sans-serif;
+    line-height: 1.5em;
+    font-size: 15px;
+    background-color: #ffff;
+    color: var(--color0);
+  
+}
+
+header {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header>img {
+    width: 75%;
+    height: 100%;
+    border-radius: 1%;
+    border: 1px;
+}
+
+body>test {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap:var(--mainPadding);
+    align-items:flex-start;
+
+}
+
+boxcontainer {
+    color: var(--color1);
+    background-color: white;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    padding: var(--mainPadding);
+    margin: var(--mainPadding);
+    border-radius: var(--borderRadius);
+    box-shadow: var(--box-shadow);
+}
+
+boxcontainer>h1 {
+    color: var(--color3);
+}
+
+boxcontainer>h2 {
+    text-align: center;
+    color: var(--color4);
+}
+
+boxcontainer>ul>h4 {
+    color: var(--color3);
+}
+
+boxcontainer>tags {
+    text-align: center;
+    /* tags alignment */
+    border-radius: var(--borderRadius);
+    box-shadow: var(--box-shadow);
+    padding: var(--t_padding);
+    padding-left: var(--t_padding-left);
+    padding-right: var(--t_padding-right);
+    margin: var(--halfPadding);
+}
+
+boxcontainer>tags>ul {
+    justify-content: center;
+    padding: 0;
+    list-style-position: inside;
+    list-style-type: none;
+    vertical-align: middle;
+    align-items: center;
+}
+
+boxcontainer>tags>ul>li>tag {
+    border-radius: var(--borderRadius);
+    color: rgb(255, 255, 255);
+    min-width: 300px;
+    text-align: center;
+    font-size: 0.75em;
+    padding: var(--t_padding);
+    padding-left: var(--t_padding-left);
+    padding-right: var(--t_padding-right);
+}
+
+/* classes */
+
+boxcontainer>hr.dot {
+    width: 100%;
+    border-top: 1px dotted var(--color4);
+
+}
+
+.widdd{
+    max-width: 300px;
+    position:sticky;
+    top:var(--mainPadding);
+}
+
+.rounded {
+    padding: 1em;
+    max-width: 200px;
+    border-radius: var(--borderRadius);
+    align-self: center;
+}
+
+.jobDesc {
+    font-size: 1.2em;
+}
+
+/* colors for tags */
+
+.t1 {
+    background-color: var(--color1);
+}
+
+.t2 {
+    background-color: var(--color2);
+}
+
+.t3 {
+    background-color: var(--color3);
+}
+
+.t4 {
+    background-color: var(--color4);
+}
+
+/* Collapsible stuff */
+
+.collapsible {
+    border-radius: var(--borderRadius);
+    background-color: var(--color2);
+    color: white;
+    cursor: pointer;
+    padding: var(--mainPadding);
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+}
+
+.active, .collapsible:hover {
+    background-color: var(--color4);
+    color: white;
+}
+
+
+.content {
+    padding: var(--halfPadding);
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: white;
+}
+
+.collapsible:after {
+    content: '\02795';
+    font-size: 2.5em;
+    color: red;
+    vertical-align: middle;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    color: white;
+    content: "\2796";
+}
