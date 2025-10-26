@@ -26,7 +26,7 @@
 <div class="section-content">
 <p>Hi, I'm Alex Hajdu — a software engineer specializing in Unreal Engine, C++, and developer tools.</p>
 <p>I focus on advanced development and technical planning, including software architecture design, performance optimization, converting Blueprints to C++, and creating productivity tools, editor plugins, and third-party integrations.</p>
-<p>While I understand gameplay programming and enjoy collaborating with design teams, my main focus is on C++ development and the core systems and business logic that power games and applications under the hood.</p>
+<p>While I understand gameplay programming and enjoy collaborating with design teams, my main focus is on C++ development and the core systems and business logic that power games and applications under the hood. I’m also passionate about R&D work and tackling the kinds of technical challenges that others often avoid.</p>
 <p>My current work centers on mobile games and VR development, helping teams build high-performance, scalable, and maintainable projects.</p>
 <p>I'm passionate about creating tools and systems that make developers more productive and projects more efficient. I'm easy to work with, professional, and always bring a friendly, collaborative approach to every project.</p>
 <p><strong>Mobile</strong>		: +421 911 585 511 ( WhatsApp )<br>
@@ -105,14 +105,16 @@
 </details>
 </div>
 <div class="right-column">
-<h2 id="experience">Experience</h2>
+<details class="section" id="recent-project" open>
+<summary class="section-title">Recent Project</summary>
+<div class="section-content">
 <blockquote>
 <h3 id="senior-c---unreal-engine-developer--portalone">Senior C++ Unreal Engine Developer @ PortalOne</h3>
 <p><strong>Period:</strong> Sep 2022 - Nov 2025, Contract (b2b)<br>
 <strong>Projects:</strong> PortalOne Arcade<br>
-<strong>Relevant links:</strong> <a href="https://www.portalone.com">PortalOne</a></p>
+<strong>Relevant links:</strong> <a href="https://www.portalone.com">PortalOne Web</a>, <a href="Ref-Alex.pdf">Reference letter from the leader of the project</a></p>
 </blockquote>
-<p>PortalOne is the world’s first hybrid games platform. Hybrid games are a new category of entertainment that seamlessly mixes games with live shows that are embedded directly inside the games.</p>
+<p>PortalOne is the world's first hybrid games platform. Hybrid games are a new category of entertainment that seamlessly mixes games with live shows that are embedded directly inside the games.</p>
 <ul>
 <li>Responsibilities on the project:</li>
 <ul>
@@ -137,6 +139,11 @@
 </ul>
 </ul>
 <iframe width="800" height="450" src="https://player.vimeo.com/video/1048550975?h=a8c3e02493" allowfullscreen=""></iframe>
+</div>
+</details>
+<details class="section" id="past-projects">
+<summary class="section-title">Past Projects</summary>
+<div class="section-content">
 <blockquote>
 <h3 id="software-engineer--c---happy-finish--microsoft">Software engineer ( C++ ) @ Happy Finish / Microsoft</h3>
 <p><strong>Period:</strong> Apr 2021 - July 2021, Contract (b2b)<br>
@@ -478,62 +485,9 @@ The development of the plugin was canceled during the COVID-19 pandemic.</p>
 </ul>
 <p><img src="https://alexhajdu.github.io/projects.png" alt="projects"></p>
 </div>
+</details>
 </div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    var rightColumn = document.querySelector('.right-column');
-    if (!rightColumn) return;
-
-    // Only process Experience section (h2) in right column
-    var experienceH2 = rightColumn.querySelector('h2#experience');
-    if (!experienceH2) return;
-    
-    // Collect Experience section content
-    var sectionContent = [];
-    sectionContent.push(experienceH2);
-    
-    var node = experienceH2.nextSibling;
-    while (node) {
-      var next = node.nextSibling;
-      sectionContent.push(node);
-      node = next;
-    }
-    
-    // Remove all content
-    sectionContent.forEach(function(node) {
-      if (node.parentNode) {
-        node.parentNode.removeChild(node);
-      }
-    });
-    
-    // Create collapsible section for Experience
-    var details = document.createElement('details');
-    details.className = 'section';
-    details.id = 'experience';
-    details.open = true;
-
-    var summary = document.createElement('summary');
-    summary.className = 'section-title';
-    summary.innerHTML = experienceH2.innerHTML;
-    details.appendChild(summary);
-
-    var content = document.createElement('div');
-    content.className = 'section-content';
-    
-    // Add all content nodes except the h2 itself
-    sectionContent.forEach(function(node) {
-      if (node !== experienceH2) {
-        content.appendChild(node);
-      }
-    });
-
-    details.appendChild(content);
-    
-    // Append to right column
-    rightColumn.appendChild(details);
-  });
-</script>
+</div>
 
 </body>
 
