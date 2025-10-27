@@ -408,7 +408,7 @@ img {
     margin-right: auto;
     padding-left: 30px;
     padding-right: 30px;
-    max-width: 1200px
+    max-width: clamp(1000px, 96vw, 1800px)
 }
 
 /* Two-column layout for desktop */
@@ -419,15 +419,16 @@ img {
 }
 
 .left-column {
-    flex: 1;
+    flex: 1 1 0;
     position: sticky;
     top: 20px;
     max-height: calc(100vh - 40px);
     overflow-y: auto;
+    min-width: 0;
 }
 
 .right-column {
-    flex: 1;
+    flex: 1 1 0;
     min-width: 0;
 }
 
