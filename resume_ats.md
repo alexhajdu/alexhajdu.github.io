@@ -9,7 +9,7 @@ GitHub: https://github.com/alexhajdu
 Experienced software engineer specializing in Unreal Engine 5 (UE5) and Unreal Engine 4 (UE4) with a focus on C++, tooling, and core systems. Builds editor plugins, modifies engine source, and designs scalable architectures for games and XR applications. Strong emphasis on performance optimization, test automation, and developer productivity. Collaborates effectively across engineering, QA, design, and art to deliver reliable, maintainable solutions.
 
 ## Core Skills
-- Engines and Platforms: Unreal Engine 5 (UE5), Unreal Engine 4 (UE4), Unity, VR/AR/MR, Hololens 2, Windows Mixed Reality, nDisplay, iOS, Android
+- Engines and Platforms: Unreal Engine 5 (UE5), Unreal Engine 4 (UE4), Unity, VR/AR/MR, HoloLens 2, Windows Mixed Reality, nDisplay, iOS, Android
 - Languages and Scripting: C++, C#, Objective C, Blueprint, Python, Lua, PowerShell
 - Tools and Systems: Editor plugins, Engine source modifications, Slate, UMG, PlayFab, gRPC, Azure, Qt, Dear ImGui, CMake, Premake
 - Testing and Automation: Gauntlet Automation Framework, Google Test
@@ -38,7 +38,7 @@ Experienced software engineer specializing in Unreal Engine 5 (UE5) and Unreal E
 - Collaborated closely with Microsoft engineers; conducted code reviews.
 - Technologies: C++, UE4, Hololens 2, PowerShell, Git.
 
-### Software Engineer (C++), Dark Slope Studios (Contract, b2b) — Dec 2020 - Present
+### Software Engineer (C++), Dark Slope Studios (Contract, b2b) — Dec 2020 - Oct 2022
 - Delivered C++ features for XR applications with focus on systems reliability.
 - Researched and implemented runtime full-body pose recording in VR.
 - Leveraged Gauntlet Automation Framework and PowerShell to support automated workflows.
@@ -51,7 +51,7 @@ Experienced software engineer specializing in Unreal Engine 5 (UE5) and Unreal E
 
 ### Software Engineer (C++), Chaos Group — Jun 2019 - Jun 2020
 - Implemented Corona Renderer integration for ARCHICAD, progressing from alpha toward commercial readiness.
-- Integrated features from renderer core; delivered daily builds and conducted code reviews.
+- Integrated features from the renderer core; delivered daily builds and conducted code reviews.
 - Collaborated with the ARCHICAD community; provided support for the plugin.
 - Tools: C++, Python, Lua, Premake, CMake, Google Test, Git.
 
@@ -59,18 +59,18 @@ Experienced software engineer specializing in Unreal Engine 5 (UE5) and Unreal E
 - CTO, WeMakeGames — Aug 2017 - Mar 2019  
   Led team for Castle Heroes (iOS/Android); owned architecture, gameplay, networking, and optimization. Managed planning, reviews, mentoring, and project delivery. Tech: Unreal Engine, C++, Git/SVN.
 - Senior Unity/Unreal/XR Developer, Inloopx by AVAST — Dec 2015 - Jul 2017  
-  Built AR/VR prototypes and apps for clients including Skoda, Mercedes Daimler, Sygic, Nestle, Slovak Telekom, Samsung, and OPEC. Supported presales estimates, interviews, and client communication. Tech: Unity, UE, C++, C#, Objective C, Git/SVN, Hololens, Gear VR, HTC Vive.
+  Built AR/VR prototypes and apps for clients including Skoda, Mercedes Daimler, Sygic, Nestle, Slovak Telekom, Samsung, and OPEC. Supported presales estimates, interviews, and client communication. Tech: Unity, UE, C++, C#, Objective C, Git/SVN, HoloLens, Gear VR, HTC Vive.
 - Software Engineer (C++/UE), AEG and Electrolux — Dec 2017 - Feb 2018  
   Maintained and enhanced VR interactive presentations; implemented interactions and movement systems. Tech: Unreal Engine, C++/Blueprints, SVN, VR, Windows Mixed Reality.
 - Software Engineer (C++/UE), Cellense/Exponea — Sep 2018 - Dec 2018  
-  Built Unreal Engine plugin integrating analytics SDK (C++/Blueprints). Tech: UE, C++, Git.
+  Built an Unreal Engine plugin integrating analytics SDK (C++/Blueprints). Tech: UE, C++, Git.
 - Software Engineer (C# Unity), EA Chillingo / AboutFun — May 2015 - Dec 2015  
   Shipped GUI features and backend tasks for WarFriends (iOS/Android). Tech: Unity, C#.
 - Founder and Software Engineer, Mr.Fox and friends — Jan 2017 - Feb 2018  
-  Created AmblyoVR (VR therapy app); implemented VR environment, treatment activities, and stereo rendering. Built websocket-driven dashboard customization; optimized PC and mobile builds.
+  Created AmblyoVR (VR therapy app); implemented VR environment, treatment activities, and stereo rendering. Built a websocket-driven dashboard customization; optimized PC and mobile builds.
 - Independent Plugins (Unreal Engine)  
-  Fix This! (UE4 editor plugin): Project management integration with Trello, Assembla, Jira.  
-  Whats My Public IP (UE plugin): Utility to fetch public IP.
+  Fix This! (UE4 editor plugin): Project management integration with Trello, Assembla, and Jira.  
+  What's My Public IP (UE plugin): Utility to fetch public IP.
 
 ## Education
 University of Transport and Communications — Faculty of Applied Mathematics and Informatics
