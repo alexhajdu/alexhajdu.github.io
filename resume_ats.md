@@ -6,7 +6,7 @@ LinkedIn: https://www.linkedin.com/in/alex-hajdu
 GitHub: https://github.com/alexhajdu
 
 ## Summary
-Experienced software engineer specializing in Unreal Engine 5 (UE5) and Unreal Engine 4 (UE4) with a focus on C++, tooling, and core systems. Builds editor plugins, modifies engine source, and designs scalable architectures for games and XR applications. Strong emphasis on performance optimization, test automation, and developer productivity. Collaborates effectively across engineering, QA, design, and art to deliver reliable, maintainable solutions.
+Unreal Engine specialist with 10+ years of experience in C++ development, gameplay systems, UI, networking, and performance optimization. Skilled in software architecture, creating productivity tools, editor plugins, and integrating third-party systems. Passionate about R&D and solving complex technical challenges.
 
 ## Core Skills
 - Engines and Platforms: Unreal Engine 5 (UE5), Unreal Engine 4 (UE4), Unity, VR/AR/MR, HoloLens 2, Windows Mixed Reality, nDisplay, iOS, Android
